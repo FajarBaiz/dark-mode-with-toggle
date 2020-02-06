@@ -1,2 +1,3 @@
 # dark-mode-with-toggle
-<img src="dark.png" >
+<img src="screenshot/light.png" width="50%" >
+<img src="screenshot/light.png" >
